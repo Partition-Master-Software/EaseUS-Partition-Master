@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://partition-master-software.github.io/.gitbhub/">
+  <a href="https://partition-master-software.github.io/.github/">
     <img src="https://img.shields.io/badge/⬇️_Get_EaseUS_Partition_Master-blue?style=for-the-badge&logo=github" alt="Get EaseUS Partition Master"/>
   </a>
 </p>
